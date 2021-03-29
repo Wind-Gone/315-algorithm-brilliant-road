@@ -47,4 +47,4 @@
 > 3/29
 
 * 两个栈 ，一个入队，一个辅助删除
-* ![image-20210329153325151](D:\leetcode\Readme.assets\image-20210329153325151.png)
+* ![image-20210329153659258](Readme.assets/image-20210329153659258.png)
