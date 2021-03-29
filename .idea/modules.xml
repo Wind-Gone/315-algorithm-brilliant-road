@@ -4,9 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chongfushuzi/chongfushuzi.iml" filepath="$PROJECT_DIR$/chongfushuzi/chongfushuzi.iml" />
       <module fileurl="file://$PROJECT_DIR$/fanzhuanlianbiao/fanzhuanlianbiao.iml" filepath="$PROJECT_DIR$/fanzhuanlianbiao/fanzhuanlianbiao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/leatcode.iml" filepath="$PROJECT_DIR$/.idea/leatcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_palindromic_substring/longest_palindromic_substring.iml" filepath="$PROJECT_DIR$/longest_palindromic_substring/longest_palindromic_substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yong-liang-ge-zhan-shi-xian-dui-lie/yong-liang-ge-zhan-shi-xian-dui-lie.iml" filepath="$PROJECT_DIR$/yong-liang-ge-zhan-shi-xian-dui-lie/yong-liang-ge-zhan-shi-xian-dui-lie.iml" />
     </modules>
   </component>
 </project>
