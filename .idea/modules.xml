@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chongfushuzi/chongfushuzi.iml" filepath="$PROJECT_DIR$/chongfushuzi/chongfushuzi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanzhuanlianbiao/fanzhuanlianbiao.iml" filepath="$PROJECT_DIR$/fanzhuanlianbiao/fanzhuanlianbiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/leatcode.iml" filepath="$PROJECT_DIR$/.idea/leatcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest_palindromic_substring/longest_palindromic_substring.iml" filepath="$PROJECT_DIR$/longest_palindromic_substring/longest_palindromic_substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" />
+    </modules>
+  </component>
+</project>
