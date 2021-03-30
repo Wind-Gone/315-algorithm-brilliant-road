@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/lian-biao-zhong-dao-shu-di-kge-jie-dian/lian-biao-zhong-dao-shu-di-kge-jie-dian.iml" filepath="$PROJECT_DIR$/lian-biao-zhong-dao-shu-di-kge-jie-dian/lian-biao-zhong-dao-shu-di-kge-jie-dian.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_palindromic_substring/longest_palindromic_substring.iml" filepath="$PROJECT_DIR$/longest_palindromic_substring/longest_palindromic_substring.iml" />
       <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number-of-islands/number-of-islands.iml" filepath="$PROJECT_DIR$/number-of-islands/number-of-islands.iml" />
       <module fileurl="file://$PROJECT_DIR$/yong-liang-ge-zhan-shi-xian-dui-lie/yong-liang-ge-zhan-shi-xian-dui-lie.iml" filepath="$PROJECT_DIR$/yong-liang-ge-zhan-shi-xian-dui-lie/yong-liang-ge-zhan-shi-xian-dui-lie.iml" />
     </modules>
   </component>
