@@ -127,6 +127,6 @@ public class Main {
 
 ## Complexity
 
-时间复杂度$O(mn)$，m表示矩阵行数，n表示矩阵列数
+时间复杂度O(mn)，m表示矩阵行数，n表示矩阵列数
 
-空间复杂度$O(1)$
+空间复杂度O(1)
