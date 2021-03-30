@@ -12,9 +12,11 @@
 
 ## Tools you'll need
 
-- [Python](https://www.python.org/). Python 3+ is a better option.
-- [C++/C](https://www.cplusplus.com/).
-- [JAVA](https://www.java.com/zh-CN/). JDK 8+ is better recommended
+- 🌱 [Python](https://www.python.org/). Python 3+ is a better option.
+- 🏃 [C++/C](https://www.cplusplus.com/).
+- 😄 [JAVA](https://www.java.com/zh-CN/). JDK 8+ is better recommended
+- ⚡ [VSCode](https://code.visualstudio.com/).
+- 👯 [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
 ## Introduction
 
