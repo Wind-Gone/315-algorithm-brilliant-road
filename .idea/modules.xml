@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" filepath="$PROJECT_DIR$/longest_substring_without_repeated_char/longest_substring_without_repeated_char.iml" />
       <module fileurl="file://$PROJECT_DIR$/niu-niu-de-shu-lie/niu-niu-de-shu-lie.iml" filepath="$PROJECT_DIR$/niu-niu-de-shu-lie/niu-niu-de-shu-lie.iml" />
       <module fileurl="file://$PROJECT_DIR$/number-of-islands/number-of-islands.iml" filepath="$PROJECT_DIR$/number-of-islands/number-of-islands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/songs_wai_mai/songs_wai_mai.iml" filepath="$PROJECT_DIR$/songs_wai_mai/songs_wai_mai.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/yong-liang-ge-zhan-shi-xian-dui-lie/yong-liang-ge-zhan-shi-xian-dui-lie.iml" filepath="$PROJECT_DIR$/yong-liang-ge-zhan-shi-xian-dui-lie/yong-liang-ge-zhan-shi-xian-dui-lie.iml" />
     </modules>
