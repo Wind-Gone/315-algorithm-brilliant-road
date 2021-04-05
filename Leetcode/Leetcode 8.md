@@ -180,7 +180,7 @@ class Solution {
         	state = table.get(state)[get_col(c)];
         	if ("in_number".equals(state)) {
             	ans = ans * 10 + c - '0';
-            	ans = sign == 1 ? Math.min(ans, (long) Integer.MAX_VALUE) : Math.min(ans, -(long) 			Integer.MIN_VALUE);
+            	ans = sign == 1 ? Math.min(ans, (long) Integer.MAX_VALUE) : Math.min(ans, -(long) Integer.MIN_VALUE);
         	} else if ("signed".equals(state)) {
             	sign = c == '+' ? 1 : -1;
         	}
