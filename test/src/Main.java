@@ -1,25 +1,20 @@
 import java.util.Scanner;
 
 public class Main {
+    static boolean[] notp = new boolean[2001];
+    static int numsp;
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
-        int n=scanner.nextInt();
-        int[] arr=new int[n];
-        for(int i=0;i<n;i++){
-            arr[i]=scanner.nextInt();
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n-i-1;j++){
-                if(arr[j]>arr[j+1]){
-                    int t=arr[j];
-                    arr[j]=arr[j+1];
-                    arr[j+1]=t;
-                }
+        int n=20;
+        for(int i=2;i<=n;i++){
+            if (!notp[i]){
+                numsp++;
+                System.out.println(i);
+            }
+            for(int j=i*i;j<=n;j+=i){
+                notp[j]=true;
             }
         }
-        for(int i=0;i<n;i++){
-            System.out.print(arr[i]);
-            System.out.print(' ');
-        }
+
+        System.out.println(numsp);
     }
 }
