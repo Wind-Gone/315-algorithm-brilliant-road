@@ -7,7 +7,9 @@ When the function to the solution of a problem is not clear, DP can help based o
 
 ## Steps
 1️⃣ Establish state transition equation.
+
 2️⃣ Cache and reuse past results.
+
 3️⃣ Count from small to large in order.
 
 ## Fighting!
