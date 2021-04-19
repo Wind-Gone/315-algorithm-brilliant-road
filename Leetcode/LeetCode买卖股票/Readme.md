@@ -1,5 +1,6 @@
 # Best Time to Buy and Sell Stock
 The Best Time to Buy and Sell Stock on LeetCode is a series of problems about **DP(dynamic planning)**, after coding such problems, and if we solve them on our own, it's bond to harvest a lot!😀
+
 However, it's hard for me, so I'm unable to finish them by myself.😭
 
 ## How to Understand DP
